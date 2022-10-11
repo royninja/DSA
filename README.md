@@ -1,3 +1,3 @@
 # DSA in C++
 coding journey
-![Discord Shield](https://discord.gg/Cppx2vSPVP)
+[![](https://dcbadge.vercel.app/api/server/zkspfFwqDg)](https://discord.gg/Cppx2vSPVP)
